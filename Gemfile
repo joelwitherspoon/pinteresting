@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'paperclip', '~> 3.0'
 
+gem 'aws-sdk', '~> 1.42.0'
 # Bootstrap sass
 gem 'bootstrap-sass'
 
