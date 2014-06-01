@@ -35,7 +35,7 @@ en:
       unauthenticated: "You need to sign in or sign up before continuing."
       unconfirmed: "You have to confirm your email address before continuing."
       user:
-        not_found_in_database: 'Invalid email address or password.'
+        not_found_in_database: 'Bitch, you killing my vibe.'
     mailer:
       confirmation_instructions:
         subject: "Confirmation instructions"
